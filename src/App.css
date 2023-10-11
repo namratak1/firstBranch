@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+/* * {
+box-sizing: border-box;
+} */
+.row
+{
+display:flex;
+}
+.column{
+flex: 50%;
+margin: 03%
+}
+input {
+width:100%;
+padding:10px;
+margin:1% 2%;
+font-size: large;
+}
+.button{
+width:15%;
+background-color: rgb(69, 62, 112);
+padding: 10px;
+color: white;
+border: none;
+}
